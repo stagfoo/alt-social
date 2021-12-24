@@ -6,6 +6,8 @@ a list of decentralised social media platforms
 - 
 # Videos
 - https://joinpeertube.org/
+-- https://tube.tchncs.de/videos/trending
+-- https://video.hardlimit.com/
 - https://odysee.com/
 
 # boards
