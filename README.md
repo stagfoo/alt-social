@@ -1,4 +1,4 @@
-# alt-social
+# Alt Apps
 a list of decentralised social media platforms
 
 # imgs
@@ -19,3 +19,7 @@ a list of decentralised social media platforms
 
 # chat
 - https://matrix.org/
+
+# Kanban
+- https://github.com/apankrat/nullboard
+- https://kinopio.club/
